@@ -1,0 +1,21 @@
+; A módosítások mentése után ne felejtsd el újratölteni a programot!
+
+; általános rövidítések -----------------------
+::kb::körülbelül
+::kp::kettõspont
+::mp::másodperc
+::pl::például
+::pv::pontosvesszõ
+::fmh::Figyeld meg, hogy
+
+; informatika ---------------------------------
+::bl::billentyû
+::jsc::JavaScript
+::opr::operációs rendszer
+::par::parancs
+::pr::program
+::wd::Windows
+
+; magán ---------------------------------------
+::tjo::Tóth József{Enter}oktató
+::pfi::BKSZC Pogány Frigyes Technikum

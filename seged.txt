@@ -1,0 +1,27 @@
+Segéd 1.0 súgó
+===================================================================
+* Egér *
+jobb gombbal az ikonra:    Menü megjelenítése
+dupla kattintás az ikonra: Rövidítések szerkesztése
+-------------------------------------------------------------------
+* Billentyûzet *
+ctrl+win+szóköz            Rövidítések szerkesztése
+ctrl+win+N:                Mai dátum beszúrása
+ctrl+win+Ö:                Alsó idézõjel
+ctrl+win+Ü:                Felsõ idézõjel
+(ctrl+)win+(num),          Váltás tizedesvesszõ és pont között a 
+                           numerikus billentyûzeten
+-------------------------------------------------------------------
+* Mûködés *
+win+Y:                     Menü megjelenítése
+shift+Pause:               Program felfüggesztése
+ctrl+win+Q:                Kilépés a programból
+ctrl+win+F1:               Ez a súgó
+ctrl+win+F2:               Leírás megjelenítése
+===================================================================
+(C) Tóth József, 2022
+https://tothj.surge.sh
+-------------------------------------------------------------
+Készült a Pogány Frigyes Szakközépiskolában.
+Tanulj nálunk informatikát!
+https://poganysuli.hu
