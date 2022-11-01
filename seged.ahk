@@ -14,7 +14,6 @@ Menu Tray, Add,
 Menu Tray, Add, &Súgó, Sugo
 Menu Tray, Add, &Leírás, Leiras
 Menu Tray, Add, &Névjegy..., Nevjegy
-Menu Tray, Add, &Honlap, Honlap
 Menu Tray, Add, 
 Menu Tray, Add, &Automatikus indítás, Autind
 Menu Tray, Add, &Felfüggesztés, Felfugg
@@ -65,10 +64,7 @@ Leiras:
 	gosub ^#F2
 return
 Nevjegy:
-	MsgBox,64,Segéd 1.0,(C) Tóth József`, 2022`nhttps://tothj.surge.sh`n`nGépnév: %A_ComputerName%`nFelhasználó: %A_UserName%`nWindows: %A_OSVersion%`n`nKészült a Pogány Frigyes technikumban.`nTanulj nálunk informatikát!`nhttps://poganysuli.hu
-return
-Honlap:
-	run https://tothj.surge.sh
+	MsgBox,64,Segéd 1.0,(C) Tóth József`, 2022`nhttps://toth-j.github.io`n`nGépnév: %A_ComputerName%`nFelhasználó: %A_UserName%`nWindows: %A_OSVersion%`n`nKészült a Pogány Frigyes technikumban.`nTanulj nálunk informatikát!`nhttps://poganysuli.hu
 return
 Autind:
 	if (auto=1)
@@ -134,14 +130,7 @@ return
 ;-----------------------------------------------------------------
 ;leírás
 ^#F2::
-	IfWinExist seged.docx 
-		WinActivate
-	else {	
-		IfExist seged.docx
-			run seged.docx
-		else
-			msgbox 16,segéd 1.0,Nem találom a seged.docx fájlt!
-	}
+	run https://toth-j.github.io/seged.html
 return
 ;-----------------------------------------------------------------
 ;suspend hotkeys
