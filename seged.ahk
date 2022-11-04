@@ -92,7 +92,7 @@ return
 ;-----------------------------------------------------------------
 ;saját rövidítések
 #Hotstring o
-#Hotstring EndChars -
+#Hotstring EndChars `t
 #Include sajat.txt
 
 ;saját rövidítések szerkesztése
