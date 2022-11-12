@@ -12,7 +12,6 @@
 ::bl::billentyû
 ::jsc::JavaScript
 ::opr::operációs rendszer
-::par::parancs
 ::pr::program
 ::wd::Windows
 
